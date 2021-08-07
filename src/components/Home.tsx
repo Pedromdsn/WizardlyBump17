@@ -1,4 +1,4 @@
-import { ARROW } from "../icons/HeadBar"
+import { ARROW } from "../icons/Icons"
 
 export default function Home() {
 	return (

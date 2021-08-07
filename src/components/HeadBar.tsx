@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { burguer, homePage, minecraft } from "../icons/HeadBar"
+import { burguer, homePage, minecraft } from "../icons/Icons"
 import Link from "next/link"
 
 export default function HeadBar() {
