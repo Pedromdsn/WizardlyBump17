@@ -8,7 +8,7 @@ In the styling of the site was used [Tailwindcss](https://tailwindcss.com/) css 
 ## Quality:
 
 <div align="center">
-<img width="80%" src="https://cdn.discordapp.com/attachments/657744571395997719/874764980665323600/unknown.png">
+<img width="80%" src="https://cdn.discordapp.com/attachments/657744571395997719/874767339768406016/unknown.png">
 <br>
  1) Benchmark test using a share host
 </div>
@@ -18,7 +18,7 @@ In the styling of the site was used [Tailwindcss](https://tailwindcss.com/) css 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/657744571395997719/874765689263628308/unknown.png" height="1080">
 <br>
-2) You can check the website <a href="https://hyperium.cocoblanco.fun">here</a>
+2) You can check the website <a href="https://wizardly.cocoblanco.fun">here</a>
 </div>
 
 ## Contact
