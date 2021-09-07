@@ -16,7 +16,7 @@ In the styling of the site was used [Tailwindcss](https://tailwindcss.com/) css 
 ## Preview:
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/657744571395997719/874765689263628308/unknown.png" height="1080">
+<img src="https://cdn.discordapp.com/attachments/657744571395997719/874765689263628308/unknown.png">
 <br>
 2) You can check the website <a href="https://wizardly.cocoblanco.fun">here</a>
 </div>
