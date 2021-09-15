@@ -1,4 +1,4 @@
-# Hyperium site
+# WizardlyBump17 site
 
 ## A portfolio site, made using the latest technologies.
 
